@@ -39,3 +39,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ## References
 - https://v3.tailwindcss.com/docs/guides/nextjs
 - https://ui.shadcn.com/docs/installation/next
+
+
+`npx shadcn@2.3.0 init`
+
+`npx shadcn@latest add button`
+
+`npx shadcn@latest add toast`
